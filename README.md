@@ -87,5 +87,21 @@ curl -X DELETE "http://localhost:8080/api/employees/{ID}"
 
 ### To run Tests
 ``` bash
-mvn Test
+mvn test
+```
+
+Output
+``` bash
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.56 s -- in com.employee.controller.EmployeeControllerTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  27.453 s
+[INFO] Finished at: 2025-02-04T23:06:49+07:00
+[INFO] ------------------------------------------------------------------------
 ```
