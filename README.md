@@ -17,7 +17,7 @@ salary
 
 ## Clone repository
 ``` bash
-git@github.com:itisprasad/employeemanagement.git
+git clone git@github.com:itisprasad/employeemanagement.git
 ```
 
 ## Run the application
